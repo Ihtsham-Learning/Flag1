@@ -1,0 +1,21 @@
+.id {
+    height: 200px;
+    width: 300px;
+    background-color:#00a652;
+   }
+   .M {
+    height: 100px ;
+    width: 200px;
+    background-color: #fef200;
+    position: relative;
+    left: 110px ;
+
+   }
+   .N
+    {
+        height: 100px ;
+        width: 200px;
+        background-color: #ed1b24;
+        position: relative;
+        left:110px ;
+   }
